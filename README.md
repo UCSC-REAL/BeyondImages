@@ -4,6 +4,8 @@ Estimate the noise transition matrix with f-mutual information.
 
 This code is a PyTorch implementation of the paper:
 
+Beyond Images: Label Noise Transition Matrix Estimation for Tasks with Lower-Quality Features [[paper]](https://arxiv.org/abs/2202.01273)
+
 
 ## Requirements
 * Python3
